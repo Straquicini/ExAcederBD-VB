@@ -1,0 +1,13 @@
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\bin\x64\Debug\Inventario.accdb
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\bin\x64\Debug\AcederBaseDados.exe.config
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\bin\x64\Debug\AcederBaseDados.exe
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\bin\x64\Debug\AcederBaseDados.pdb
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\bin\x64\Debug\AcederBaseDados.xml
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.vbproj.AssemblyReference.cache
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.Form1.resources
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.Resources.resources
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.vbproj.GenerateResource.cache
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.vbproj.CoreCompileInputs.cache
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.exe
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.xml
+E:\14642\VB\AcederBaseDados\AcederBaseDados\AcederBaseDados\obj\x64\Debug\AcederBaseDados.pdb
